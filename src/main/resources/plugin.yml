@@ -1,0 +1,8 @@
+name: Testing
+version: '${project.version}'
+main: dev.bence.testing.Cosmetics
+api-version: 1.18
+
+commands:
+  cosmetics:
+    description: cosmetic
